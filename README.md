@@ -14,3 +14,6 @@ Technologies Used:
 To install the app:
 - Download "app-release.apk" file (present in the root directory)
 
+App video:
+- https://drive.google.com/file/d/1ndTqRpczxQ0E37nQtERH57Okq25OfYwk/view?usp=drive_link
+
