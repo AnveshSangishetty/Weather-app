@@ -19,7 +19,7 @@ class About extends StatelessWidget {
             Image.asset('assets/pass_photo.jpeg',height: 200,width: 200,),
             const SizedBox(height: 50,),
             InkWell(
-              onTap: () => launchUrl(Uri.parse('https://drive.google.com/file/d/1BnV7ndQDFXlFo4XF9RJAqPJk8-9Hu80f/view?usp=drive_link')),
+              onTap: () => launchUrl(Uri.parse('https://drive.google.com/file/d/1dSefhh1VNqtoG7LOIm9Tli08oIiYO3mA/view?usp=drive_link')),
               child: const Text(
                 'CV',
                 style: TextStyle(fontSize:20,decoration: TextDecoration.underline, color: Colors.blue),
